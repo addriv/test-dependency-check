@@ -23,6 +23,6 @@
     "query-mysql": "0.0.2",
     "react-marked-markdown": "^1.4.6",
     "serve": "6.5.3",
-    "url-parse": "1.4.2",
+    "url-parse": "1.4.2"
   }
 }
